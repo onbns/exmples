@@ -1,0 +1,15 @@
+{
+  "name": "vechain-thor-hello-world",
+  "version": "0.0.1",
+  "description": "GOAL: To print out latest block",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "BNS Team <team@onbns.com>",
+  "license": "MIT",
+  "dependencies": {
+    "thorify": "^1.0.4",
+    "web3": "^1.0.0-beta.36"
+  }
+}
